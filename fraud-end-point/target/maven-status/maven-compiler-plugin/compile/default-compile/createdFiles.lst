@@ -1,0 +1,6 @@
+com\sunTravel\fraud\entities\FraudCheckHistory.class
+com\sunTravel\fraud\FraudApplication.class
+com\sunTravel\fraud\repository\FraudCheckHistoryRepository.class
+com\sunTravel\fraud\entities\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\sunTravel\fraud\services\FraudCheckService.class
+com\sunTravel\fraud\controllers\FraudCheckController.class
